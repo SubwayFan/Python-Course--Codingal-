@@ -5,3 +5,9 @@ print("I love programming")
 #['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 
 #'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
 print(keyword.kwlist)
+
+# // is used to find quotients (e.g 5//2 gives you a quotient of 2)
+
+
+#even in Python indexing starts at 0
+#slice means you get a range of positions 
